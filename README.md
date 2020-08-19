@@ -28,7 +28,7 @@ DISCLAIMER - I won't do this on the weekends!
 - [x] ☁️ 2 > [Building a backend with REST and Amplify - Part 2](Journey/002/Readme.md)
 - [x] ☁️ 3 > [CloudWatch](Journey/003/Readme.md)
 - [x] ☁️ 4 > 17.8 [Amazon Aurora](Journey/004/Readme.md)
-- [ ] ☁️ 5 > [](Journey/005/Readme.md)
+- [ ] ☁️ 5 > 18.8[AWS SAM deployment and build](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
